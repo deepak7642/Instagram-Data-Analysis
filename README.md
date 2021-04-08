@@ -1,3 +1,4 @@
+
 # Instagram-Data-Analysis
 
 ## 📊 INSTAGRAM AND DATA ANALYTICS 📊
@@ -16,3 +17,4 @@ IG #stats:
 In terms of the kinds of conclusions that can be drawn, we can assess the results in several ways. In this case, I want to highlight the importance of influencers and celebrities used by many brands to make #marketing campaigns, they are key...🗝
 The post is also very important. In fact, now IG gives a lot of space to Reels (like TikTok ) and carousels..!!!🧐
 
+![Instagram](https://user-images.githubusercontent.com/75072300/113987659-49624900-986c-11eb-9ca2-8db3bddae19f.jpeg)
