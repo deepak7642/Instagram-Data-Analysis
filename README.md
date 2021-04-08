@@ -1,5 +1,5 @@
 
-# Instagram-Data-Analysis
+# Instagram-Data-ANALYTICS
 
 ## 📊 INSTAGRAM AND DATA ANALYTICS 📊
 
